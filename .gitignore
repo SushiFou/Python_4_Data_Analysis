@@ -1,1 +1,3 @@
+# Here, I see you need help with the .gitignore
 .DS_Store
+**/.DS_Store
